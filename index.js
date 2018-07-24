@@ -1,4 +1,4 @@
-_global.customerName = 'bob'
+window.customerName = 'bob'
 const leastFavoriteCustomer = 'sour fred'
 
 function upperCaseCustomerName() {
