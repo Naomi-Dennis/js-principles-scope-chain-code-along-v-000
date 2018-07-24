@@ -1,5 +1,5 @@
 var customerName = 'bob'
-console.log(customerName)
+console.log("Testing")
 const leastFavoriteCustomer = 'sour fred'
 
 function upperCaseCustomerName() {
