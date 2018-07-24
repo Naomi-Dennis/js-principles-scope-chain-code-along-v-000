@@ -1,4 +1,5 @@
 var customerName = 'bob'
+console.log(customerName)
 const leastFavoriteCustomer = 'sour fred'
 
 function upperCaseCustomerName() {
