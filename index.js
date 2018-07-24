@@ -1,4 +1,4 @@
-var customerName = 'bob'
+global.customerName = 'bob'
 const leastFavoriteCustomer = 'sour fred'
 
 function upperCaseCustomerName() {
