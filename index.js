@@ -23,6 +23,5 @@ function congratulateCustomer(){
 }
 
 function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
-    var favoriteCustomer = 'not bar'
+    throw new SyntaxError
 }
